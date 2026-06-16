@@ -113,8 +113,8 @@ jobs:
               echo "SCHED_FILE=oneplus_ace_6" >> $GITHUB_ENV
               ;;
             oneplus_13t)
-              echo "REPO_MANIFEST=sm8750_b_16.0.0_oneplus_13t" >> $GITHUB_ENV
-              echo "SCHED_FILE=oneplus_13t_b" >> $GITHUB_ENV
+              echo "REPO_MANIFEST=sm8750_v_15.0.2_oneplus_13t" >> $GITHUB_ENV
+              echo "SCHED_FILE=oneplus_13t" >> $GITHUB_ENV
               ;;
             oneplus_pad_2)
               echo "REPO_MANIFEST=mt6991_b_16.0.0_pad_2" >> $GITHUB_ENV
